@@ -1,3 +1,5 @@
+// https://adventofcode.com/2025/day/5
+
 namespace AOC._2025.day_5;
 
 

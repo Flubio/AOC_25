@@ -1,3 +1,5 @@
+// https://adventofcode.com/2025/day/2
+
 fn main() {
     let result_part1 = sol_part1();
     println!("Part 1: {}", result_part1);
